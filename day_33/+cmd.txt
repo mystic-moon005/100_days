@@ -1,0 +1,5 @@
+python set0.py
+python set1.py
+python set2.py
+python set3.py
+python set4.py
